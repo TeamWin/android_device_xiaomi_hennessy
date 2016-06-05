@@ -53,7 +53,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_USERIMAGES_USE_F2FS := true
 
 # RECOVERY
-TARGET_RECOVERY_FSTAB := device/xiaomi/hennessy/rootdir/twrp.fstab
+TARGET_RECOVERY_FSTAB := device/xiaomi/hennessy/rootdir/root/twrp.fstab
 
 # PARTTIONS
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x01000000
