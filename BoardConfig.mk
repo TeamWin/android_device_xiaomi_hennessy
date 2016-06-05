@@ -50,7 +50,6 @@ TARGET_PREBUILT_KERNEL := device/xiaomi/hennessy/root/kernel
 
 # TARGET IMAGES
 TARGET_USERIMAGES_USE_EXT4 := true
-TARGET_USERIMAGES_USE_F2FS := true
 
 # RECOVERY
 TARGET_RECOVERY_FSTAB := device/xiaomi/hennessy/rootdir/root/twrp.fstab
