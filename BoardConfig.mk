@@ -46,7 +46,7 @@ BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2 androidboot.selinux=permissive
 BOARD_KERNEL_BASE := 0x40080000
 BOARD_KERNEL_PAGESIZE := 2048
 BOARD_MKBOOTIMG_ARGS  := --kernel_offset 0x00000000 --ramdisk_offset 0x03f80000 --tags_offset 0x0df80000
-TARGET_PREBUILT_KERNEL := device/xiaomi/hennessy/rootdir/kernel
+TARGET_PREBUILT_KERNEL := device/xiaomi/hennessy/root/kernel
 
 # TARGET IMAGES
 TARGET_USERIMAGES_USE_EXT4 := true
