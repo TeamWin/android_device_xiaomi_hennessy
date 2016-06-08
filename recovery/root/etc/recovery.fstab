@@ -3,5 +3,5 @@
 /cache        ext4          /dev/block/platform/mtk-msdc.0/by-name/cache
 /boot         emmc          /dev/block/platform/mtk-msdc.0/by-name/boot
 /recovery     emmc          /dev/block/platform/mtk-msdc.0/by-name/recovery
-/nvram        ext4          /dev/block/platform/mtk-msdc.0/by-name/nvram      flags=display="IMEI/NVRAM"
+/nvram        ext4          /dev/block/platform/mtk-msdc.0/by-name/nvram      flags=display="IMEI/NVRAM";backup=1
 /usb_otg      auto          /dev/block/sda1 /dev/block/sda                    flags=display="USB-OTG";storage;wipeingui;removable
