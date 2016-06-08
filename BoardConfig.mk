@@ -69,7 +69,6 @@ TW_INCLUDE_CRYPTO := true
 TW_BRIGHTNESS_PATH := /sys/devices/platform/leds-mt65xx/leds/lcd-backlight/brightness
 TW_MAX_BRIGHTNESS := 255
 TW_NO_CPU_TEMP := true
-TW_NO_USB_STORAGE := true
 TW_HAS_DOWNLOAD_MODE := true
 TW_EXCLUDE_SUPERSU := true
 TW_USE_TOOLBOX := true
