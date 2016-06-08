@@ -53,7 +53,7 @@ TARGET_PREBUILT_KERNEL := device/xiaomi/hennessy/kernel
 TARGET_USERIMAGES_USE_EXT4 := true
 
 # FSTAB LOCATIONS
-TARGET_RECOVERY_FSTAB := device/xiaomi/hennessy/recovery/root/recovery.fstab
+TARGET_RECOVERY_FSTAB := device/xiaomi/hennessy/recovery/root/etc/recovery.fstab
 
 # PARTTIONS
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x01000000
