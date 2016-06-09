@@ -1,0 +1,2 @@
+add_lunch_combo omni_hennessy-userdebug
+add_lunch_combo omni_hennessy-eng
